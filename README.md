@@ -52,7 +52,7 @@ We appreciate feedback and contribution to this repo!
 
 ## License
 
-This software is released under the MIT License. See the [LICENSE](LICENCE.md) file for more info.
+This software is released under the MIT License. See the [LICENSE](LICENSE.md) file for more info.
 
 PdfSharpCore relies on the following projects, that are not under the MIT license:
 
